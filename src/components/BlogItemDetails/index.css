@@ -1,0 +1,32 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 80%;
+}
+.heading {
+  color: #000000;
+}
+.avatar-name-container {
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  width: 16px;
+  height: 16px;
+  border-radius: 32px;
+  margin-right: 10px;
+}
+.img {
+  width: 90%;
+  height: 45%;
+  border-radius: 10px;
+}
+.content {
+  color: #2f4f4f;
+}

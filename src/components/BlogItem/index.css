@@ -1,0 +1,36 @@
+.li-container {
+  display: flex;
+  margin-bottom: 30px;
+  align-items: center;
+  border: 1px solid #8e8e8e;
+  padding: 10px;
+  box-shadow: 2px;
+  font-family: 'roboto';
+}
+
+.author-details-container {
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  width: 16px;
+  height: 16px;
+  border-radius: 32px;
+  margin-right: 10px;
+}
+.img1 {
+  width: 250px;
+  height: 150px;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+.topic {
+  color: #8e8e8e;
+  font-weight: bold;
+}
+.title {
+  font-size: 15px;
+}
+.author {
+  color: #8e8e8e;
+}
